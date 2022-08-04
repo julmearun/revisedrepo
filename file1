@@ -1,0 +1,4 @@
+versoin "2020-8-2"
+resource name "ec2 instance"
+}
+vpc "my vpc"
